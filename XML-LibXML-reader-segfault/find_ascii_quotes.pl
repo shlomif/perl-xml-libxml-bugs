@@ -23,20 +23,6 @@ foreach my $filename (@ARGV)
         if ($reader->nodeType() == XML_TEXT_NODE)
         {
             my $data = $reader->value;
-
-            my @lines = split(/\n/, $data, -1);
-
-            foreach my $idx (0 .. $#lines)
-            {
-                my $line = $lines[$idx];
-
-                if ($line =~ m{"})
-                {
-                    #printf {*STDOUT} ("%s:%d:%s\n",
-                    #    $filename, $reader->lineNumber()+$idx, $line
-                    # );
-                }
-            }
         }
     }
 
