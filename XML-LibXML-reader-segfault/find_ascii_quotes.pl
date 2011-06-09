@@ -32,9 +32,9 @@ foreach my $filename (@ARGV)
 
                 if ($line =~ m{"})
                 {
-                    printf {*STDOUT} ("%s:%d:%s\n",
-                        $filename, $reader->lineNumber()+$idx, $line
-                    );
+                    #printf {*STDOUT} ("%s:%d:%s\n",
+                    #    $filename, $reader->lineNumber()+$idx, $line
+                    # );
                 }
             }
         }
