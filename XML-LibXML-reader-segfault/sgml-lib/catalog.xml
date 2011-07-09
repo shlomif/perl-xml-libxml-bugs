@@ -5,7 +5,6 @@
   <public publicId="-//W3C//DTD XHTML 1.1//EN" uri="XX-xhtml11-20090630/xhtml11.dtd" />
   <public publicId="-//W3C//ENTITIES XHTML 1.1 Document Model 1.0//EN" uri="XX-xhtml11-20090630/xhtml11-model-1.mod" />
   <public publicId="-//W3C//DTD XHTML Basic 1.0//EN" uri="REC-xhtml-basic-20001219/xhtml-basic10.dtd" />
-  <public publicId="-//W3C//ENTITIES XHTML Basic 1.0 Document Model 1.0//EN" uri="REC-xhtml-basic-20001219/xhtml-basic10-model-1.mod" />
   <public publicId="-//W3C//DTD XHTML Basic 1.1//EN" uri="REC-xhtml-basic-20080729/xhtml-basic11.dtd" />
   <public publicId="-//W3C//ENTITIES XHTML Basic 1.1 Document Model 1.0//EN" uri="REC-xhtml-basic-20080729/xhtml-basic11-model-1.mod" />
   <public publicId="-//W3C//ELEMENTS XHTML Inputmode 1.0//EN" uri="REC-xhtml-basic-20080729/xhtml-inputmode-1.mod" />
