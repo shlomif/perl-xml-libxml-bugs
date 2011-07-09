@@ -231,14 +231,6 @@
             "http://www.w3.org/MarkUp/DTD/xhtml-base-1.mod" >
 %xhtml-base.mod;]]>
 
-<!-- Scripting Module  ........................................... -->
-<!ENTITY % xhtml-script.module "INCLUDE" >
-<![%xhtml-script.module;[
-<!ENTITY % xhtml-script.mod
-     PUBLIC "-//W3C//ELEMENTS XHTML Scripting 1.0//EN"
-            "http://www.w3.org/MarkUp/DTD/xhtml-script-1.mod" >
-%xhtml-script.mod;]]>
-
 <!-- Style Sheets Module  ......................................... -->
 <!ENTITY % xhtml-style.module "INCLUDE" >
 <![%xhtml-style.module;[
