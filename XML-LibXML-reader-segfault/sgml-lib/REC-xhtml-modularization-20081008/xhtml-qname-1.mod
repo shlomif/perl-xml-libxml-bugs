@@ -26,7 +26,6 @@
        Section B declares parameter entities used to provide
        namespace-qualified names for all XHTML element types:
 
-         %applet.qname;   the xmlns-qualified name for <applet>
          %base.qname;     the xmlns-qualified name for <base>
          ...
 
@@ -176,9 +175,6 @@
 <!-- 6. This section declares parameter entities used to provide
         namespace-qualified names for all XHTML element types.
 -->
-
-<!-- module:  xhtml-applet-1.mod -->
-<!ENTITY % applet.qname  "%XHTML.pfx;applet" >
 
 <!-- module:  xhtml-bdo-1.mod -->
 <!ENTITY % bdo.qname     "%XHTML.pfx;bdo" >
