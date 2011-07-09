@@ -189,16 +189,6 @@
             "http://www.w3.org/MarkUp/DTD/xhtml-bdo-1.mod" >
 %xhtml-bdo.mod;]]>
 
-<!-- Ruby Module  ................................................ -->
-<!ENTITY % Ruby.common.attlists "INCLUDE" >
-<!ENTITY % Ruby.common.attrib "%Common.attrib;" >
-<!ENTITY % xhtml-ruby.module "INCLUDE" >
-<![%xhtml-ruby.module;[
-<!ENTITY % xhtml-ruby.mod
-     PUBLIC "-//W3C//ELEMENTS XHTML Ruby 1.0//EN"
-            "http://www.w3.org/MarkUp/DTD/xhtml-ruby-1.mod" >
-%xhtml-ruby.mod;]]>
-
 <!-- Presentation Module  ........................................ -->
 <!ENTITY % xhtml-pres.module "INCLUDE" >
 <![%xhtml-pres.module;[
@@ -270,14 +260,6 @@
      PUBLIC "-//W3C//ELEMENTS XHTML Param Element 1.0//EN"
             "http://www.w3.org/MarkUp/DTD/xhtml-param-1.mod" >
 %xhtml-param.mod;]]>
-
-<!-- Embedded Object Module  ..................................... -->
-<!ENTITY % xhtml-object.module "INCLUDE" >
-<![%xhtml-object.module;[
-<!ENTITY % xhtml-object.mod
-     PUBLIC "-//W3C//ELEMENTS XHTML Embedded Object 1.0//EN"
-            "http://www.w3.org/MarkUp/DTD/xhtml-object-1.mod" >
-%xhtml-object.mod;]]>
 
 <!-- Tables Module ............................................... -->
 <!ENTITY % xhtml-table.module "INCLUDE" >
