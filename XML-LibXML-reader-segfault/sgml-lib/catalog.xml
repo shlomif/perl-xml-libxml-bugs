@@ -33,8 +33,6 @@
   <public publicId="-//W3C//ELEMENTS XHTML Presentation 1.0//EN" uri="REC-xhtml-modularization-20081008/xhtml-pres-1.mod" />
   <public publicId="-//W3C//ELEMENTS XHTML Editing Elements 1.0//EN" uri="REC-xhtml-modularization-20081008/xhtml-edit-1.mod" />
   <public publicId="-//W3C//ELEMENTS XHTML Editing Markup 1.0//EN" uri="REC-xhtml-modularization-20081008/xhtml-edit-1.mod" />
-  <public publicId="-//W3C//ELEMENTS XHTML BDO Element 1.0//EN" uri="REC-xhtml-modularization-20081008/xhtml-bdo-1.mod" />
-  <public publicId="-//W3C//ELEMENTS XHTML BIDI Override Element 1.0//EN" uri="REC-xhtml-modularization-20081008/xhtml-bdo-1.mod" />
   <public publicId="-//W3C//ELEMENTS XHTML Basic Forms 1.0//EN" uri="REC-xhtml-modularization-20081008/xhtml-basic-form-1.mod" />
   <public publicId="-//W3C//ELEMENTS XHTML Forms 1.0//EN" uri="REC-xhtml-modularization-20081008/xhtml-form-1.mod" />
   <public publicId="-//W3C//ELEMENTS XHTML Tables 1.0//EN" uri="REC-xhtml-modularization-20081008/xhtml-table-1.mod" />

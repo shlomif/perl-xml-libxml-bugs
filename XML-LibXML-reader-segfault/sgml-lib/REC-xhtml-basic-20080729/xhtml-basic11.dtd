@@ -76,7 +76,6 @@
 <!-- :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: -->
 
 <!ENTITY % xhtml-events.module   "INCLUDE" >
-<!ENTITY % xhtml-bdo.module      "%XHTML.bidi;" >
 
 <!-- Inline Style Module  ........................................ -->
 <!ENTITY % xhtml-inlstyle.module "INCLUDE" >

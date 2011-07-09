@@ -181,14 +181,6 @@
             "http://www.w3.org/MarkUp/DTD/xhtml-edit-1.mod" >
 %xhtml-edit.mod;]]>
 
-<!-- BIDI Override Module  ....................................... -->
-<!ENTITY % xhtml-bdo.module "%XHTML.bidi;" >
-<![%xhtml-bdo.module;[
-<!ENTITY % xhtml-bdo.mod
-     PUBLIC "-//W3C//ELEMENTS XHTML BIDI Override Element 1.0//EN"
-            "http://www.w3.org/MarkUp/DTD/xhtml-bdo-1.mod" >
-%xhtml-bdo.mod;]]>
-
 <!-- Presentation Module  ........................................ -->
 <!ENTITY % xhtml-pres.module "INCLUDE" >
 <![%xhtml-pres.module;[
