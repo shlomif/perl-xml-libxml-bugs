@@ -141,14 +141,6 @@
             "http://www.w3.org/MarkUp/DTD/xhtml-image-1.mod" >
 %xhtml-image.mod;]]>
 
-<!-- Tables Module ............................................... -->
-<!ENTITY % xhtml-table.module "INCLUDE" >
-<![%xhtml-table.module;[
-<!ENTITY % xhtml-table.mod
-     PUBLIC "-//W3C//ELEMENTS XHTML Basic Tables 1.0//EN"
-            "http://www.w3.org/MarkUp/DTD/xhtml-basic-table-1.mod" >
-%xhtml-table.mod;]]>
-
 <!-- Forms Module  ............................................... -->
 <!ENTITY % xhtml-form.module "INCLUDE" >
 <![%xhtml-form.module;[
