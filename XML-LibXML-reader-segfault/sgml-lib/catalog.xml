@@ -18,7 +18,6 @@
   <public publicId="-//W3C//ELEMENTS XHTML Document Structure 1.0//EN" uri="REC-xhtml-modularization-20081008/xhtml-struct-1.mod" />
   <public publicId="-//W3C//ELEMENTS XHTML Text 1.0//EN" uri="REC-xhtml-modularization-20081008/xhtml-text-1.mod" />
   <public publicId="-//W3C//ELEMENTS XHTML Hypertext 1.0//EN" uri="REC-xhtml-modularization-20081008/xhtml-hypertext-1.mod" />
-  <public publicId="-//W3C//ELEMENTS XHTML Lists 1.0//EN" uri="REC-xhtml-modularization-20081008/xhtml-list-1.mod" />
   <public publicId="-//W3C//ELEMENTS XHTML Inline Structural 1.0//EN" uri="REC-xhtml-modularization-20081008/xhtml-inlstruct-1.mod" />
   <public publicId="-//W3C//ELEMENTS XHTML Block Structural 1.0//EN" uri="REC-xhtml-modularization-20081008/xhtml-blkstruct-1.mod" />
   <public publicId="-//W3C//ELEMENTS XHTML Block Phrasal 1.0//EN" uri="REC-xhtml-modularization-20081008/xhtml-blkphras-1.mod" />

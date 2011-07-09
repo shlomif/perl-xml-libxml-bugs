@@ -160,14 +160,6 @@
             "http://www.w3.org/MarkUp/DTD/xhtml-hypertext-1.mod" >
 %xhtml-hypertext.mod;]]>
 
-<!-- Lists Module (required)  .................................... -->
-<!ENTITY % xhtml-list.module "INCLUDE" >
-<![%xhtml-list.module;[
-<!ENTITY % xhtml-list.mod
-     PUBLIC "-//W3C//ELEMENTS XHTML Lists 1.0//EN"
-            "http://www.w3.org/MarkUp/DTD/xhtml-list-1.mod" >
-%xhtml-list.mod;]]>
-
 <!-- ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: -->
 
 <!-- Style Sheets Module  ......................................... -->

@@ -113,11 +113,6 @@
             "http://www.w3.org/MarkUp/DTD/xhtml-hypertext-1.mod" >
 %xhtml-hypertext.mod;
 
-<!ENTITY % xhtml-list.mod
-     PUBLIC "-//W3C//ELEMENTS XHTML Lists 1.0//EN"
-            "http://www.w3.org/MarkUp/DTD/xhtml-list-1.mod" >
-%xhtml-list.mod;
-
 <!-- Add in the value attribute to the li element -->
 <!ATTLIST %li.qname;
       value        %Number.datatype;         #IMPLIED
