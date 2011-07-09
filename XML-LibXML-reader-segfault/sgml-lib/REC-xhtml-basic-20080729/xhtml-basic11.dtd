@@ -157,14 +157,6 @@
             "http://www.w3.org/MarkUp/DTD/xhtml-form-1.mod" >
 %xhtml-form.mod;]]>
 
-<!-- Presentation Module  ........................................ -->
-<!ENTITY % xhtml-pres.module "INCLUDE" >
-<![%xhtml-pres.module;[
-<!ENTITY % xhtml-pres.mod
-     PUBLIC "-//W3C//ELEMENTS XHTML Presentation 1.0//EN"
-            "http://www.w3.org/MarkUp/DTD/xhtml-pres-1.mod" >
-%xhtml-pres.mod;]]>
-
 <!-- Link Element Module  ........................................ -->
 <!ENTITY % xhtml-link.module "INCLUDE" >
 <![%xhtml-link.module;[
