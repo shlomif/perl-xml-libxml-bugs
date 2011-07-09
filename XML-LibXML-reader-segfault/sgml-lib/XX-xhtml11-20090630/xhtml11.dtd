@@ -152,16 +152,6 @@
             "http://www.w3.org/MarkUp/DTD/xhtml-text-1.mod" >
 %xhtml-text.mod;]]>
 
-<!-- Hypertext Module (required) ................................. -->
-<!ENTITY % xhtml-hypertext.module "INCLUDE" >
-<![%xhtml-hypertext.module;[
-<!ENTITY % xhtml-hypertext.mod
-     PUBLIC "-//W3C//ELEMENTS XHTML Hypertext 1.0//EN"
-            "http://www.w3.org/MarkUp/DTD/xhtml-hypertext-1.mod" >
-%xhtml-hypertext.mod;]]>
-
-<!-- ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: -->
-
 <!-- Style Sheets Module  ......................................... -->
 <!ENTITY % xhtml-style.module "INCLUDE" >
 <![%xhtml-style.module;[
