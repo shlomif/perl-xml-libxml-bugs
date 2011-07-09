@@ -170,14 +170,6 @@
 
 <!-- ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: -->
 
-<!-- Edit Module  ................................................ -->
-<!ENTITY % xhtml-edit.module "INCLUDE" >
-<![%xhtml-edit.module;[
-<!ENTITY % xhtml-edit.mod
-     PUBLIC "-//W3C//ELEMENTS XHTML Editing Elements 1.0//EN"
-            "http://www.w3.org/MarkUp/DTD/xhtml-edit-1.mod" >
-%xhtml-edit.mod;]]>
-
 <!-- Style Sheets Module  ......................................... -->
 <!ENTITY % xhtml-style.module "INCLUDE" >
 <![%xhtml-style.module;[

@@ -66,10 +66,6 @@
 
 <!-- .................  Miscellaneous Elements  .................. -->
 
-<!-- ins and del are used to denote editing changes
--->
-<!ENTITY % Edit.class "| %ins.qname; | %del.qname;" >
-
 <!-- script and noscript are used to contain scripts
      and alternative content
 -->

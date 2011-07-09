@@ -201,10 +201,6 @@
 <!ENTITY % div.qname     "%XHTML.pfx;div" >
 <!ENTITY % p.qname       "%XHTML.pfx;p" >
 
-<!-- module:  xhtml-edit-1.mod -->
-<!ENTITY % ins.qname     "%XHTML.pfx;ins" >
-<!ENTITY % del.qname     "%XHTML.pfx;del" >
-
 <!-- module:  xhtml-form-1.mod -->
 <!ENTITY % form.qname    "%XHTML.pfx;form" >
 <!ENTITY % label.qname   "%XHTML.pfx;label" >
