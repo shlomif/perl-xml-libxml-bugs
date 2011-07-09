@@ -82,7 +82,6 @@
   <public publicId="-//W3C//ENTITIES Alternative Greek Symbols//EN//XML" uri="REC-xml-entity-names-20100401/isogrk4.ent" />
   <public publicId="-//W3C//ENTITIES Added Latin 1//EN//XML" uri="REC-xml-entity-names-20100401/isolat1.ent" />
   <public publicId="-//W3C//ENTITIES Added Latin 2//EN//XML" uri="REC-xml-entity-names-20100401/isolat2.ent" />
-  <public publicId="-//W3C//ENTITIES Numeric and Special Graphic//EN//XML" uri="REC-xml-entity-names-20100401/isonum.ent" />
   <public publicId="-//W3C//ENTITIES Publishing//EN//XML" uri="REC-xml-entity-names-20100401/isopub.ent" />
   <public publicId="-//W3C//ENTITIES General Technical//EN//XML" uri="REC-xml-entity-names-20100401/isotech.ent" />
   <public publicId="-//W3C//ENTITIES Predefined XML//EN///XML" uri="REC-xml-entity-names-20100401/predefined.ent" />
