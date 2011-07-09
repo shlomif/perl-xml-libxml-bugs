@@ -2,9 +2,6 @@
 <!-- Automatically generated from SGML Open Catalog - don't edit, regenerate -->
 <!DOCTYPE catalog PUBLIC "-//OASIS//DTD Entity Resolution XML Catalog V1.0//EN" "http://www.oasis-open.org/committees/entity/release/1.0/catalog.dtd">
 <catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
-  <public publicId="-//W3C//DTD XHTML 1.0 Strict//EN" uri="REC-xhtml1-20020801/xhtml1-strict.dtd" />
-  <public publicId="-//W3C//DTD XHTML 1.0 Transitional//EN" uri="REC-xhtml1-20020801/xhtml1-transitional.dtd" />
-  <public publicId="-//W3C//DTD XHTML 1.0 Frameset//EN" uri="REC-xhtml1-20020801/xhtml1-frameset.dtd" />
   <public publicId="-//W3C//DTD XHTML 1.1//EN" uri="XX-xhtml11-20090630/xhtml11.dtd" />
   <public publicId="-//W3C//ENTITIES XHTML 1.1 Document Model 1.0//EN" uri="XX-xhtml11-20090630/xhtml11-model-1.mod" />
   <public publicId="-//W3C//DTD XHTML Basic 1.0//EN" uri="REC-xhtml-basic-20001219/xhtml-basic10.dtd" />
