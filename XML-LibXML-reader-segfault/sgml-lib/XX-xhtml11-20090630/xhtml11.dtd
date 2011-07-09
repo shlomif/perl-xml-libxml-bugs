@@ -78,9 +78,6 @@
 <!-- reserved for future use with document profiles -->
 <!ENTITY % XHTML.profile  "" >
 
-<!-- ensure XHTML Notations are disabled -->
-<!ENTITY % xhtml-notations.module "IGNORE" >
-
 <!-- Bidirectional Text features
      This feature-test entity is used to declare elements
      and attributes used for bidirectional text support.

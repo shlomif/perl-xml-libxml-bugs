@@ -38,13 +38,6 @@
             "xhtml-arch-1.mod" >
 %xhtml-arch.mod;]]>
 
-<!ENTITY % xhtml-notations.module "IGNORE" >
-<![%xhtml-notations.module;[
-<!ENTITY % xhtml-notations.mod
-     PUBLIC "-//W3C//NOTATIONS XHTML Notations 1.0//EN"
-            "xhtml-notations-1.mod" >
-%xhtml-notations.mod;]]>
-
 <!ENTITY % xhtml-datatypes.module "INCLUDE" >
 <![%xhtml-datatypes.module;[
 <!ENTITY % xhtml-datatypes.mod

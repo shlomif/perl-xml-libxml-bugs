@@ -10,7 +10,6 @@
   <public publicId="-//W3C//ENTITIES XHTML Basic 1.1 Document Model 1.0//EN" uri="REC-xhtml-basic-20080729/xhtml-basic11-model-1.mod" />
   <public publicId="-//W3C//ELEMENTS XHTML Inputmode 1.0//EN" uri="REC-xhtml-basic-20080729/xhtml-inputmode-1.mod" />
   <public publicId="-//W3C//ENTITIES XHTML Modular Framework 1.0//EN" uri="REC-xhtml-modularization-20081008/xhtml-framework-1.mod" />
-  <public publicId="-//W3C//NOTATIONS XHTML Notations 1.0//EN" uri="REC-xhtml-modularization-20081008/xhtml-notations-1.mod" />
   <public publicId="-//W3C//ENTITIES XHTML Datatypes 1.0//EN" uri="REC-xhtml-modularization-20081008/xhtml-datatypes-1.mod" />
   <public publicId="-//W3C//ENTITIES XHTML Qualified Names 1.0//EN" uri="REC-xhtml-modularization-20081008/xhtml-qname-1.mod" />
   <public publicId="-//W3C//ENTITIES XHTML Common Attributes 1.0//EN" uri="REC-xhtml-modularization-20081008/xhtml-attribs-1.mod" />
@@ -26,7 +25,6 @@
   <public publicId="-//W3C//ELEMENTS XHTML Param Element 1.0//EN" uri="REC-xhtml-modularization-20081008/xhtml-param-1.mod" />
   <public publicId="-//W3C//ELEMENTS XHTML Editing Elements 1.0//EN" uri="REC-xhtml-modularization-20081008/xhtml-edit-1.mod" />
   <public publicId="-//W3C//ELEMENTS XHTML Editing Markup 1.0//EN" uri="REC-xhtml-modularization-20081008/xhtml-edit-1.mod" />
-  <public publicId="-//W3C//ELEMENTS XHTML Basic Forms 1.0//EN" uri="REC-xhtml-modularization-20081008/xhtml-basic-form-1.mod" />
   <public publicId="-//W3C//ELEMENTS XHTML Forms 1.0//EN" uri="REC-xhtml-modularization-20081008/xhtml-form-1.mod" />
   <public publicId="-//W3C//ELEMENTS XHTML Tables 1.0//EN" uri="REC-xhtml-modularization-20081008/xhtml-table-1.mod" />
   <public publicId="-//W3C//ELEMENTS XHTML Images 1.0//EN" uri="REC-xhtml-modularization-20081008/xhtml-image-1.mod" />
