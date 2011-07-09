@@ -15,8 +15,6 @@
   <public publicId="-//W3C//DTD XHTML Basic 1.1//EN" uri="REC-xhtml-basic-20080729/xhtml-basic11.dtd" />
   <public publicId="-//W3C//ENTITIES XHTML Basic 1.1 Document Model 1.0//EN" uri="REC-xhtml-basic-20080729/xhtml-basic11-model-1.mod" />
   <public publicId="-//W3C//ELEMENTS XHTML Inputmode 1.0//EN" uri="REC-xhtml-basic-20080729/xhtml-inputmode-1.mod" />
-  <public publicId="-//W3C//DTD XHTML-Print 1.0//EN" uri="REC-xhtml-print-20060920/xhtml-print10.dtd" />
-  <public publicId="-//W3C//ENTITIES XHTML-Print 1.0 Document Model 1.0//EN" uri="REC-xhtml-print-20060920/xhtml-print10-model-1.mod" />
   <public publicId="-//W3C//ENTITIES XHTML MetaAttributes 1.0//EN" uri="REC-rdfa-syntax-20081014/xhtml-metaAttributes-1.mod" />
   <public publicId="-//W3C//ENTITIES XHTML Modular Framework 1.0//EN" uri="REC-xhtml-modularization-20081008/xhtml-framework-1.mod" />
   <public publicId="-//W3C//NOTATIONS XHTML Notations 1.0//EN" uri="REC-xhtml-modularization-20081008/xhtml-notations-1.mod" />
