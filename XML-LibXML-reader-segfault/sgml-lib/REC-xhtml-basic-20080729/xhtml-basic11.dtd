@@ -157,14 +157,6 @@
             "http://www.w3.org/MarkUp/DTD/xhtml-form-1.mod" >
 %xhtml-form.mod;]]>
 
-<!-- Document Metainformation Module  ............................ -->
-<!ENTITY % xhtml-meta.module "INCLUDE" >
-<![%xhtml-meta.module;[
-<!ENTITY % xhtml-meta.mod
-     PUBLIC "-//W3C//ELEMENTS XHTML Metainformation 1.0//EN"
-            "http://www.w3.org/MarkUp/DTD/xhtml-meta-1.mod" >
-%xhtml-meta.mod;]]>
-
 <!-- Param Element Module  ....................................... -->
 <!ENTITY % xhtml-param.module "INCLUDE" >
 <![%xhtml-param.module;[

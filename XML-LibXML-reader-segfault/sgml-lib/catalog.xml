@@ -9,7 +9,6 @@
   <public publicId="-//W3C//DTD XHTML Basic 1.1//EN" uri="REC-xhtml-basic-20080729/xhtml-basic11.dtd" />
   <public publicId="-//W3C//ENTITIES XHTML Basic 1.1 Document Model 1.0//EN" uri="REC-xhtml-basic-20080729/xhtml-basic11-model-1.mod" />
   <public publicId="-//W3C//ELEMENTS XHTML Inputmode 1.0//EN" uri="REC-xhtml-basic-20080729/xhtml-inputmode-1.mod" />
-  <public publicId="-//W3C//ENTITIES XHTML MetaAttributes 1.0//EN" uri="REC-rdfa-syntax-20081014/xhtml-metaAttributes-1.mod" />
   <public publicId="-//W3C//ENTITIES XHTML Modular Framework 1.0//EN" uri="REC-xhtml-modularization-20081008/xhtml-framework-1.mod" />
   <public publicId="-//W3C//NOTATIONS XHTML Notations 1.0//EN" uri="REC-xhtml-modularization-20081008/xhtml-notations-1.mod" />
   <public publicId="-//W3C//ENTITIES XHTML Datatypes 1.0//EN" uri="REC-xhtml-modularization-20081008/xhtml-datatypes-1.mod" />
@@ -36,7 +35,6 @@
   <public publicId="-//W3C//ELEMENTS XHTML Client-side Image Maps 1.0//EN" uri="REC-xhtml-modularization-20081008/xhtml-csismap-1.mod" />
   <public publicId="-//W3C//ELEMENTS XHTML Server-side Image Maps 1.0//EN" uri="REC-xhtml-modularization-20081008/xhtml-ssismap-1.mod" />
   <public publicId="-//W3C//ENTITIES XHTML Intrinsic Events 1.0//EN" uri="REC-xhtml-modularization-20081008/xhtml-events-1.mod" />
-  <public publicId="-//W3C//ELEMENTS XHTML Metainformation 1.0//EN" uri="REC-xhtml-modularization-20081008/xhtml-meta-1.mod" />
   <public publicId="-//W3C//ELEMENTS XHTML Style Sheets 1.0//EN" uri="REC-xhtml-modularization-20081008/xhtml-style-1.mod" />
   <public publicId="-//W3C//ELEMENTS XHTML Frames 1.0//EN" uri="REC-xhtml-modularization-20081008/xhtml-frames-1.mod" />
   <public publicId="-//W3C//ELEMENTS XHTML Inline Style 1.0//EN" uri="REC-xhtml-modularization-20081008/xhtml-inlstyle-1.mod" />

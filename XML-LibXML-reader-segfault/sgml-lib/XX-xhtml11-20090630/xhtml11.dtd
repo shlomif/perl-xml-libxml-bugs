@@ -181,14 +181,6 @@
             "http://www.w3.org/MarkUp/DTD/xhtml-edit-1.mod" >
 %xhtml-edit.mod;]]>
 
-<!-- Document Metainformation Module  ............................ -->
-<!ENTITY % xhtml-meta.module "INCLUDE" >
-<![%xhtml-meta.module;[
-<!ENTITY % xhtml-meta.mod
-     PUBLIC "-//W3C//ELEMENTS XHTML Metainformation 1.0//EN"
-            "http://www.w3.org/MarkUp/DTD/xhtml-meta-1.mod" >
-%xhtml-meta.mod;]]>
-
 <!-- Style Sheets Module  ......................................... -->
 <!ENTITY % xhtml-style.module "INCLUDE" >
 <![%xhtml-style.module;[
