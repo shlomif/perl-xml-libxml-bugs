@@ -67,11 +67,6 @@
   <public publicId="-//W3C//ELEMENTS XHTML Inline Style 1.0//EN" uri="REC-xhtml-modularization-20081008/xhtml-inlstyle-1.mod" />
   <public publicId="-//W3C//ENTITIES XHTML Inline Style 1.0//EN" uri="REC-xhtml-modularization-20081008/xhtml-inlstyle-1.mod" />
   <public publicId="-//W3C//ELEMENTS XHTML Name Identifier 1.0//EN" uri="REC-xhtml-modularization-20081008/xhtml-nameident-1.mod" />
-  <public publicId="-//W3C//ENTITIES Latin 1 for XHTML//EN" uri="REC-xhtml-modularization-20081008/xhtml-lat1.ent" />
-  <public publicId="-//W3C//ENTITIES Special for XHTML//EN" uri="REC-xhtml-modularization-20081008/xhtml-special.ent" />
-  <public publicId="-//W3C//ENTITIES Symbols for XHTML//EN" uri="REC-xhtml-modularization-20081008/xhtml-symbol.ent" />
-  <public publicId="-//W3C//ENTITIES uppercase aliases for HTML//EN//XML" uri="REC-xml-entity-names-20100401/html5-uppercase.ent" />
   <system systemId="http://www.w3.org/2003/entities/2007/htmlmathml-f.ent" uri="REC-xml-entity-names-20100401/htmlmathml-f.ent" />
-  <public publicId="-//W3C//ENTITIES Added Latin 1//EN//XML" uri="REC-xml-entity-names-20100401/isolat1.ent" />
   <system systemId="http://www.w3.org/2003/entities/2007/w3centities-f.ent" uri="REC-xml-entity-names-20100401/w3centities-f.ent" />
 </catalog>
