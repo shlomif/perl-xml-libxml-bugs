@@ -72,14 +72,6 @@
   <public publicId="-//W3C//ENTITIES Symbols for XHTML//EN" uri="REC-xhtml-modularization-20081008/xhtml-symbol.ent" />
   <public publicId="-//W3C//ENTITIES uppercase aliases for HTML//EN//XML" uri="REC-xml-entity-names-20100401/html5-uppercase.ent" />
   <system systemId="http://www.w3.org/2003/entities/2007/htmlmathml-f.ent" uri="REC-xml-entity-names-20100401/htmlmathml-f.ent" />
-  <public publicId="-//W3C//ENTITIES Box and Line Drawing//EN//XML" uri="REC-xml-entity-names-20100401/isobox.ent" />
-  <public publicId="-//W3C//ENTITIES Russian Cyrillic//EN//XML" uri="REC-xml-entity-names-20100401/isocyr1.ent" />
-  <public publicId="-//W3C//ENTITIES Non-Russian Cyrillic//EN//XML" uri="REC-xml-entity-names-20100401/isocyr2.ent" />
-  <public publicId="-//W3C//ENTITIES Diacritical Marks//EN//XML" uri="REC-xml-entity-names-20100401/isodia.ent" />
-  <public publicId="-//W3C//ENTITIES Greek Letters//EN//XML" uri="REC-xml-entity-names-20100401/isogrk1.ent" />
-  <public publicId="-//W3C//ENTITIES Monotoniko Greek//EN//XML" uri="REC-xml-entity-names-20100401/isogrk2.ent" />
-  <public publicId="-//W3C//ENTITIES Greek Symbols//EN//XML" uri="REC-xml-entity-names-20100401/isogrk3.ent" />
-  <public publicId="-//W3C//ENTITIES Alternative Greek Symbols//EN//XML" uri="REC-xml-entity-names-20100401/isogrk4.ent" />
   <public publicId="-//W3C//ENTITIES Added Latin 1//EN//XML" uri="REC-xml-entity-names-20100401/isolat1.ent" />
   <system systemId="http://www.w3.org/2003/entities/2007/w3centities-f.ent" uri="REC-xml-entity-names-20100401/w3centities-f.ent" />
 </catalog>
