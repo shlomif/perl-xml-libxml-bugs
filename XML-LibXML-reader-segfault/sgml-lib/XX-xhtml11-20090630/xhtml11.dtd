@@ -194,14 +194,6 @@
             "http://www.w3.org/MarkUp/DTD/xhtml-csismap-1.mod" >
 %xhtml-csismap.mod;]]>
 
-<!-- Server-side Image Map Module  ............................... -->
-<!ENTITY % xhtml-ssismap.module "INCLUDE" >
-<![%xhtml-ssismap.module;[
-<!ENTITY % xhtml-ssismap.mod
-     PUBLIC "-//W3C//ELEMENTS XHTML Server-side Image Maps 1.0//EN"
-            "http://www.w3.org/MarkUp/DTD/xhtml-ssismap-1.mod" >
-%xhtml-ssismap.mod;]]>
-
 <!-- Forms Module  ............................................... -->
 <!ENTITY % xhtml-form.module "INCLUDE" >
 <![%xhtml-form.module;[
