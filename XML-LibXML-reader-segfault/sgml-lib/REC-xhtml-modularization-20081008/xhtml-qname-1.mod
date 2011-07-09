@@ -194,9 +194,6 @@
 <!ENTITY % h5.qname      "%XHTML.pfx;h5" >
 <!ENTITY % h6.qname      "%XHTML.pfx;h6" >
 
-<!-- module:  xhtml-blkpres-1.mod -->
-<!ENTITY % hr.qname      "%XHTML.pfx;hr" >
-
 <!-- module:  xhtml-blkstruct-1.mod -->
 <!ENTITY % div.qname     "%XHTML.pfx;div" >
 <!ENTITY % p.qname       "%XHTML.pfx;p" >

@@ -118,8 +118,6 @@
      "| %pre.qname; | %blockquote.qname; | %address.qname;"
 >
 
-<!ENTITY % BlkPres.class "| %hr.qname;" >
-
 <!ENTITY % BlkSpecial.class
      "%Table.class;
       %Form.class;
