@@ -31,9 +31,4 @@
            "xhtml-symbol.ent" >
 %xhtml-symbol;
 
-<!ENTITY % xhtml-special
-    PUBLIC "-//W3C//ENTITIES Special for XHTML//EN"
-           "xhtml-special.ent" >
-%xhtml-special;
-
 <!-- end of xhtml-charent-1.mod -->
