@@ -213,14 +213,6 @@
             "http://www.w3.org/MarkUp/DTD/xhtml-meta-1.mod" >
 %xhtml-meta.mod;]]>
 
-<!-- Base Element Module  ........................................ -->
-<!ENTITY % xhtml-base.module "INCLUDE" >
-<![%xhtml-base.module;[
-<!ENTITY % xhtml-base.mod
-     PUBLIC "-//W3C//ELEMENTS XHTML Base Element 1.0//EN"
-            "http://www.w3.org/MarkUp/DTD/xhtml-base-1.mod" >
-%xhtml-base.mod;]]>
-
 <!-- Style Sheets Module  ......................................... -->
 <!ENTITY % xhtml-style.module "INCLUDE" >
 <![%xhtml-style.module;[

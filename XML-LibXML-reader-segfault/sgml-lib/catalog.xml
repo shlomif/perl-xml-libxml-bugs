@@ -45,7 +45,6 @@
   <public publicId="-//W3C//ELEMENTS XHTML Metainformation 1.0//EN" uri="REC-xhtml-modularization-20081008/xhtml-meta-1.mod" />
   <public publicId="-//W3C//ELEMENTS XHTML Style Sheets 1.0//EN" uri="REC-xhtml-modularization-20081008/xhtml-style-1.mod" />
   <public publicId="-//W3C//ELEMENTS XHTML Link Element 1.0//EN" uri="REC-xhtml-modularization-20081008/xhtml-link-1.mod" />
-  <public publicId="-//W3C//ELEMENTS XHTML Base Element 1.0//EN" uri="REC-xhtml-modularization-20081008/xhtml-base-1.mod" />
   <public publicId="-//W3C//ELEMENTS XHTML Legacy Redeclarations 1.0//EN" uri="REC-xhtml-modularization-20081008/xhtml-legacy-redecl-1.mod" />
   <public publicId="-//W3C//ELEMENTS XHTML Legacy Markup 1.0//EN" uri="REC-xhtml-modularization-20081008/xhtml-legacy-1.mod" />
   <public publicId="-//W3C//ELEMENTS XHTML Frames 1.0//EN" uri="REC-xhtml-modularization-20081008/xhtml-frames-1.mod" />

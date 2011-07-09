@@ -180,9 +180,6 @@
 <!-- module:  xhtml-applet-1.mod -->
 <!ENTITY % applet.qname  "%XHTML.pfx;applet" >
 
-<!-- module:  xhtml-base-1.mod -->
-<!ENTITY % base.qname    "%XHTML.pfx;base" >
-
 <!-- module:  xhtml-bdo-1.mod -->
 <!ENTITY % bdo.qname     "%XHTML.pfx;bdo" >
 
