@@ -202,14 +202,6 @@
             "http://www.w3.org/MarkUp/DTD/xhtml-ssismap-1.mod" >
 %xhtml-ssismap.mod;]]>
 
-<!-- Tables Module ............................................... -->
-<!ENTITY % xhtml-table.module "INCLUDE" >
-<![%xhtml-table.module;[
-<!ENTITY % xhtml-table.mod
-     PUBLIC "-//W3C//ELEMENTS XHTML Tables 1.0//EN"
-            "http://www.w3.org/MarkUp/DTD/xhtml-table-1.mod" >
-%xhtml-table.mod;]]>
-
 <!-- Forms Module  ............................................... -->
 <!ENTITY % xhtml-form.module "INCLUDE" >
 <![%xhtml-form.module;[
