@@ -202,14 +202,6 @@
             "http://www.w3.org/MarkUp/DTD/xhtml-ssismap-1.mod" >
 %xhtml-ssismap.mod;]]>
 
-<!-- Param Element Module  ....................................... -->
-<!ENTITY % xhtml-param.module "INCLUDE" >
-<![%xhtml-param.module;[
-<!ENTITY % xhtml-param.mod
-     PUBLIC "-//W3C//ELEMENTS XHTML Param Element 1.0//EN"
-            "http://www.w3.org/MarkUp/DTD/xhtml-param-1.mod" >
-%xhtml-param.mod;]]>
-
 <!-- Tables Module ............................................... -->
 <!ENTITY % xhtml-table.module "INCLUDE" >
 <![%xhtml-table.module;[

@@ -149,14 +149,6 @@
             "http://www.w3.org/MarkUp/DTD/xhtml-form-1.mod" >
 %xhtml-form.mod;]]>
 
-<!-- Param Element Module  ....................................... -->
-<!ENTITY % xhtml-param.module "INCLUDE" >
-<![%xhtml-param.module;[
-<!ENTITY % xhtml-param.mod
-     PUBLIC "-//W3C//ELEMENTS XHTML Param Element 1.0//EN"
-            "http://www.w3.org/MarkUp/DTD/xhtml-param-1.mod" >
-%xhtml-param.mod;]]>
-
 <!-- Embedded Object Module  ..................................... -->
 <!ENTITY % xhtml-object.module "INCLUDE" >
 <![%xhtml-object.module;[
