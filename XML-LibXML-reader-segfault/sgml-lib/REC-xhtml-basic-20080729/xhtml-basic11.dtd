@@ -73,10 +73,6 @@
 
 <?doc type="doctype" role="title" { XHTML Basic 1.1 } ?>
 
-<!-- :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: -->
-
-<!ENTITY % xhtml-events.module   "INCLUDE" >
-
 <!-- Inline Style Module  ........................................ -->
 <!ENTITY % xhtml-inlstyle.module "INCLUDE" >
 <![%xhtml-inlstyle.module;[

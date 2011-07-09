@@ -97,8 +97,6 @@
 %xhtml-prefw-redecl.mod;
 <!-- end of xhtml-prefw-redecl.module -->]]>
 
-<!ENTITY % xhtml-events.module "INCLUDE" >
-
 <!-- Inline Style Module  ........................................ -->
 <!ENTITY % xhtml-inlstyle.module "INCLUDE" >
 <![%xhtml-inlstyle.module;[
