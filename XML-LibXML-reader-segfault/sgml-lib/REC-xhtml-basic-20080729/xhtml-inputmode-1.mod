@@ -15,7 +15,7 @@
      (none)
      ....................................................................... -->
 
-<!-- Inputmode 
+<!-- Inputmode
 
         inputmode
 
@@ -23,7 +23,7 @@
      input mode associated with an input or textarea element.
 -->
 
-<!-- render in this frame --> 
+<!-- render in this frame -->
 <!ENTITY % Inputmode.datatype "CDATA" >
 
 <!-- add 'inputmode' attribute to 'input' element -->
